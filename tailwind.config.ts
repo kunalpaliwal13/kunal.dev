@@ -40,10 +40,7 @@ export default {
           dark: "#0c1424",
         },
       },
-      backgroundImage: {
-        'mountain-scape': "url('/lovable-uploads/eb8d6cba-3194-4135-b108-d9584801c24e.png')",
-        'pixel-navy': "url('/lovable-uploads/d46db68b-6789-4d98-82eb-6bc8190d10dc.png')",
-      },
+
       animation: {
         'fade-in': 'fadeIn 0.5s ease-in-out',
         'fade-in-delayed': 'fadeIn 0.5s ease-in-out 0.3s forwards',
