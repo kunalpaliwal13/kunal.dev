@@ -51,8 +51,8 @@ const Index = () => {
                 textShadow: "5px 5px 4px rgba(0, 0, 0, 0.5)",
               }}
             >
-              I’m a software engineer crafting fast, beautiful, and
-              pixel-perfect digital experiences.
+              I’m a software engineer exlporing the 
+              world of Blockchains, AI and Web development.
             </p>
             <div style={{ display: "flex", gap: "20px" }}>
               <a
