@@ -121,7 +121,7 @@ const Index = () => {
                   "Linear-Regression",
                 ]}
                 image="/images/fieldly.png"
-                url="https://croppred-x1.onrender.com/"
+                url="https://fieldly-ai.vercel.app/"
               />
               <ProjectCard
                 title="InvoSol"
