@@ -116,8 +116,9 @@ const Index = () => {
                 devstack={[
                   "Flask",
                   "Python",
-                  "HTML-CSS-JS",
-                  "XGBoost",
+                  "React-JS",
+                  "Gemini API",
+                  "Pytorch",
                   "Linear-Regression",
                 ]}
                 image="/images/fieldly.png"
